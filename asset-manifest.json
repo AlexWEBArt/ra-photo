@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-photo/static/css/main.e89404ee.css",
+    "main.js": "/ra-photo/static/js/main.0db8a32f.js",
+    "static/js/787.6080fc87.chunk.js": "/ra-photo/static/js/787.6080fc87.chunk.js",
+    "index.html": "/ra-photo/index.html",
+    "main.e89404ee.css.map": "/ra-photo/static/css/main.e89404ee.css.map",
+    "main.0db8a32f.js.map": "/ra-photo/static/js/main.0db8a32f.js.map",
+    "787.6080fc87.chunk.js.map": "/ra-photo/static/js/787.6080fc87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e89404ee.css",
+    "static/js/main.0db8a32f.js"
+  ]
+}
